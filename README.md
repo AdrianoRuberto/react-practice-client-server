@@ -20,4 +20,4 @@
 1) Focus on the `App.tsx` file
 2) Explain how it works
 3) Need to refactor something?
-4) Add a new component on `App.tsx` which will fetch the time from the API and refresh it every second
+5) Let's use the [http.cat](https://http.cat/) API! Create a component with a button, that refreshes and displays the image coming from the Cat API, on a click.
