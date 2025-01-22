@@ -8,6 +8,12 @@
 
 ## Exercices
 
+### Backend
+
+1) Explore the `backend` folder
+2) Explain how it works
+3) Add a new endpoint that take an id and return the user with that id
+
 ### Typescript
 
 1) Expore files in `frontend` and explain how it works
@@ -21,3 +27,7 @@
 2) Explain how it works
 3) Need to refactor something?
 5) Let's use our backend API `/api`! Create a component that list all users from the API, and display them in a list.
+
+### BONUS
+
+1) Create a react component that search for users by id and display the user with that id
