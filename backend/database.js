@@ -15,7 +15,6 @@ INSERT INTO users VALUES (300, 'Darth', 'Vader', 'Sith');
 `;
 db.run(init);
 
-
 function transformToRecords(data) {
   return data.values.map(row => data.columns.reduce((obj, column, index) => {
     obj[column] = row[index];

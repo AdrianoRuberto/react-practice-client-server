@@ -1,10 +1,11 @@
-import {  useState } from 'react'
-import unicorn from './assets/unicorn.png'
-import './App.css'
-import { formatDate } from './utils/date'
+import {  useState } from 'react';
+import unicorn from './assets/unicorn.png';
+import './App.css';
+import { formatDate } from './utils/date';
+
 
 function App() {
-  const [tmp, setTmp] = useState(0)
+  const [tmp, setTmp] = useState(0);
 
 
   return (
@@ -23,7 +24,7 @@ function App() {
       </div>
       </div>
     </>
-  )
+  );
 }
 
-export default App
+export default App;

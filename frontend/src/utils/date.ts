@@ -21,9 +21,9 @@ export const formatDate =(date: Date): string => {
 
   
   return year + '-' + month + '-' + day;
-}
+};
 
-export const getDatetime = () => new Date().toISOString()
+export const getDatetime = () => new Date().toISOString();
 
 // A function to check if a year is a leap year
 function isLeapYear(year: number): boolean {

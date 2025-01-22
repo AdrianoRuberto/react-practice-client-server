@@ -11,5 +11,8 @@
   "workspaces": [
     "frontend",
     "backend"
-  ]
+  ],
+  "devDependencies": {
+    "eslint": "^8.57.0"
+  }
 }
