@@ -30,4 +30,5 @@
 
 ### BONUS
 
-1) Create a react component that search for users by id and display the user with that id
+1) Add the functionality to filter the users by type
+2) Create a react component that search for users by id and display the user with that id
