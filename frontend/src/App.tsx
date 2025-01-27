@@ -1,5 +1,5 @@
 import {  useState } from 'react';
-import unicorn from './assets/unicorn.png';
+import unicorn from './assets/unicorn.webp';
 import './App.css';
 import { formatDate } from './utils/date';
 
